@@ -8,8 +8,7 @@ module.exports = {
   devtool: 'source-map',
   ignore: ['**/layout.html', '**/_*', '**/.*', 'readme.md', 'yarn.lock'],
   reshape: htmlStandards({
-    locals: (ctx) => { return { pageId: pageId(ctx), foo: 'bar' } },
-    minify: env === 'production'
+    locals: (ctx) => { return { pageId: pageId(ctx), foo: 'bar' } }
   }),
   postcss: cssStandards({
     minify: env === 'production',
