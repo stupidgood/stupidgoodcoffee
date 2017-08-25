@@ -1,0 +1,8 @@
+main {
+  font-range: 30em 90em;
+  font-size: responsive 1.25em 1.5em;
+}
+
+p {
+  line-height: 1.75;
+}

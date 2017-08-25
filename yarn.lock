@@ -6471,6 +6471,10 @@ table@^3.7.8:
     slice-ansi "0.0.4"
     string-width "^2.0.0"
 
+tachyons@4.8.0:
+  version "4.8.0"
+  resolved "https://registry.yarnpkg.com/tachyons/-/tachyons-4.8.0.tgz#9174723241afec6588245c83f9242d24fd7ba0c4"
+
 tapable@^0.2.7:
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.8.tgz#99372a5c999bf2df160afc0d74bed4f47948cd22"
@@ -6637,6 +6641,10 @@ type-check@~0.3.2:
   resolved "https://registry.yarnpkg.com/type-check/-/type-check-0.3.2.tgz#5884cab512cf1d355e3fb784f30804b2b520db72"
   dependencies:
     prelude-ls "~1.1.2"
+
+typed.js@^2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/typed.js/-/typed.js-2.0.5.tgz#5158f9dfe73cf42f1366d2dfffdc2b2e159b9401"
 
 typedarray@^0.0.6:
   version "0.0.6"
