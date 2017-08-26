@@ -1,15 +1,4 @@
-.bg-iroko {
-  background-color: #4b3621;
-}
-
-.bg-jaffa {
-  background-color: #f68a33;
-}
-
-.iroko {
-  color: #4b3621;
-}
-
-.jaffa {
-  color: #f68a33;
-}
+.bg-iroko { background-color: #4b3621 }
+.bg-jaffa { background-color: #f68a33 }
+.iroko { color: #4b3621 }
+.jaffa { color: #f68a33 }

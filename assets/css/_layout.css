@@ -15,14 +15,6 @@ body {
   }
 }
 
-header {
-  grid-area: header;
-}
-
-main {
-  grid-area: main;
-}
-
-nav {
-  grid-area: nav;
-}
+header { grid-area: header }
+main { grid-area: main }
+nav { grid-area: nav }
