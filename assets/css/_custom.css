@@ -36,12 +36,6 @@ main p {
 
 [id$="headline"]:not(#index-headline) { display: none }
 
-#taco-status {
-  top: 25%;
-  left: 95%;
-  transform-origin: 0 0;
-}
-
 @media screen and (min-width: 48em) {
   nav {
     height: initial;
