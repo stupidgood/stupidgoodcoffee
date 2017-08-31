@@ -3,5 +3,10 @@ main {
   font-size: responsive 1.25em 1.5em;
 }
 
-a { font-style: italic }
-p { line-height: 1.75 }
+main a {
+  font-style: italic;
+}
+
+main p {
+  line-height: 1.75;
+}

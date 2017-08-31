@@ -73,4 +73,6 @@ fieldset {
  * Allow only vertical resizing of textareas.
  */
 
-textarea { resize: vertical }
+textarea {
+  resize: vertical;
+}

@@ -11,10 +11,19 @@ body {
     grid-template-areas:
       "header header"
       "nav main";
-    grid-template-columns: 18em auto;
+    grid-template-columns: 18rem auto;
   }
 }
 
-header { grid-area: header }
-main { grid-area: main }
-nav { grid-area: nav }
+header {
+  grid-area: header;
+}
+
+main {
+  grid-area: main;
+}
+
+nav {
+  grid-area: nav;
+}
+
