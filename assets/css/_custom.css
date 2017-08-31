@@ -1,7 +1,3 @@
-.f4 { font-size: 4rem }
-.white-05 { color: hsla(0, 0%, 100%, .05) }
-.z--1 { z-index: -1 }
-
 header:after {
   background: #fff;
   content: " ";
@@ -13,17 +9,19 @@ header:after {
   width: 8em;
 }
 
+main p {
+  margin-top: 0;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
 #index-page main {
   margin-bottom: 0;
   margin-top: 0;
   padding-bottom: 0;
   padding-top: 0;
-}
-
-main p {
-  margin-top: 0;
-
-  &:last-child { margin-bottom: 0 }
 }
 
 [id$="content"] > *,
@@ -32,7 +30,21 @@ main p {
   font-size: responsive 2.5em 6em;
 }
 
-[id$="headline"]:not(#index-headline) { display: none }
+[id$="headline"]:not(#index-headline) {
+  display: none;
+}
+
+.f4 {
+  font-size: 4rem;
+}
+
+.white-05 {
+  color: hsla(0, 0%, 100%, .05);
+}
+
+.z--1 {
+  z-index: -1;
+}
 
 @media screen and (min-width: 48em) {
   nav {
@@ -40,5 +52,7 @@ main p {
     min-height: initial;
   }
 
-  main p:first-of-type { margin-top: .5rem }
+  main p:first-of-type {
+    margin-top: .75rem;
+  }
 }
