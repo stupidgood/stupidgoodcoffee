@@ -1,4 +1,3 @@
-import Turbolinks from 'turbolinks'
 import Typed from 'typed.js';
 
 const options = {
@@ -8,5 +7,3 @@ const options = {
 }
 
 const typed = new Typed('#headline', options);
-
-Turbolinks.start()
