@@ -1,9 +1,12 @@
-import { Application } from 'stimulus'
 import Turbolinks from 'turbolinks'
+import Typed from 'typed.js';
 
-import HelloController from './controllers/hello_controller'
+const options = {
+    stringsElement: '#headline-content',
+    typeSpeed: 28,
+    showCursor: false,
+}
 
-const application = Application.start()
-application.register('hello', HelloController)
+const typed = new Typed('#headline', options);
 
 Turbolinks.start()
