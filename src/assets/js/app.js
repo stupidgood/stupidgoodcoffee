@@ -1,9 +1,9 @@
 import Typed from 'typed.js';
 
 const options = {
-    stringsElement: '#headline-content',
+    stringsElement: '#index-headline-content',
     typeSpeed: 28,
     showCursor: false,
 }
 
-const typed = new Typed('#headline', options);
+const typed = new Typed('#index-headline', options);
