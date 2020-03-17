@@ -1,0 +1,44 @@
+@tailwind base;
+
+body {
+  @apply bg-iroko text-white;
+}
+
+p {
+  @apply leading-9 mb-4 text-xl;
+}
+
+em,
+strong {
+  @apply text-jaffa;
+}
+
+header::after {
+  background:#fff;
+  content: " ";
+  display: block;
+  height: 8px;
+  left: 2rem;
+  position: absolute;
+  bottom: 0;
+  width: 8em;
+}
+
+#content a {
+  @apply duration-150 ease-in italic opacity-50 text-gray-100 underline;
+}
+
+#content a:focus,
+#content a:hover {
+  @apply opacity-100 text-white;
+}
+
+@screen lg {
+  p {
+    @apply text-2xl;
+  }
+}
+
+@tailwind components;
+
+@tailwind utilities;
