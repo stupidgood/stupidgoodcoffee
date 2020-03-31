@@ -1,4 +1,4 @@
-# Eleveny Starter
+# Eleventy Starter
 
 A project scaffold for quickly starting a site build with:
 
