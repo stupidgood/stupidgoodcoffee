@@ -6,12 +6,7 @@ body {
 }
 
 p {
-  @apply leading-9 mb-4 text-xl;
-}
-
-em,
-strong {
-  @apply text-jaffa;
+  @apply leading-9 mb-6 text-2xl;
 }
 
 header::after {
@@ -26,17 +21,20 @@ header::after {
 }
 
 #content a {
-  @apply duration-150 ease-in italic opacity-50 text-gray-100 underline;
+  @apply text-jaffa underline;
 }
 
-#content a:focus,
-#content a:hover {
-  @apply opacity-100 text-white;
+#content a.button {
+  @apply bg-jaffa font-bold inline-block not-italic text-white no-underline;
+}
+
+#content h2 {
+  @apply mb-6 text-3xl;
 }
 
 @screen lg {
   p {
-    @apply text-2xl;
+    @apply leading-relaxed text-3xl;
   }
 }
 
