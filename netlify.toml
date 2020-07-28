@@ -7,12 +7,7 @@
   command = "npm run start"
   publish = "dist"
   targetPort = 8080
-
-[[redirects]]
-  from = "/"
-  to = "https://stupidgoodcoffee.square.site"
-  status = 302
-
+  
 [[redirects]]
   from = "/api/*"
   to = "/.netlify/functions/:splat"
