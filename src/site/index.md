@@ -18,10 +18,10 @@ Dallas, TX 75201
 [(214) 329-9070](tel:2143299070)  
 [Get directions](https://www.google.com/maps/dir/?api=1&destination=1910+Pacific+Ave+Ste+2060+Dallas+TX+75201+US)  
 
-**Monday** 9:30 am - 2:30 pm  
-**Tuesday** 9:30 am - 2:30 pm  
-**Wednesday** 9:30 am - 2:30 pm  
-**Thursday** 9:30 am - 2:30 pm  
+**Monday** 9:00 a.m. - 3:00 p.m.  
+**Tuesday** 9:00 a.m. - 3:00 p.m.  
+**Wednesday** 9:00 a.m. - 3:00 p.m.  
+**Thursday** 9:00 a.m. - 3:00 p.m.  
 **Friday** Closed  
 **Saturday** Closed  
 **Sunday** Closed  
