@@ -5,8 +5,8 @@ body {
   @apply bg-iroko text-white;
 }
 
-p {
-  @apply leading-9 mb-6 text-2xl;
+a {
+  @apply underline text-jaffa;
 }
 
 header::after {
@@ -20,20 +20,12 @@ header::after {
   width: 8em;
 }
 
-#content a {
-  @apply text-jaffa underline;
-}
-
-#content a.button {
-  @apply bg-jaffa font-bold inline-block not-italic text-white no-underline;
-}
-
-#content h2 {
-  @apply mb-6 text-3xl;
+#content p {
+  @apply mb-6 leading-9 text-2xl;
 }
 
 @screen lg {
-  p {
+  #content p {
     @apply leading-relaxed text-3xl;
   }
 }
