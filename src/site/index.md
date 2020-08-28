@@ -2,8 +2,6 @@
 layout: home
 ---
 
-<a class="inline-block mt-8 mb-8 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/s/order">Order now</a>
-
 Pick up only
 
 Monday - Thursday  
