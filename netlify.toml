@@ -20,3 +20,7 @@
 [[redirects]]
   from = "/beans"
   to = "https://stupidgoodcoffee.square.site/product/coffee/108"
+
+[[redirects]]
+  from = "/gift"
+  to = "https://stupidgoodcoffee.square.site/s/gift-cards"
