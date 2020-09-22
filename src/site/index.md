@@ -6,7 +6,7 @@ layout: home
 
 Pick up only  
 Monday - Thursday  
-**9:00 a.m. - 3:00 p.m.**
+**9:00 a.m. - 4:00 p.m.**
 
 Friday - Sunday  
 **Closed**
