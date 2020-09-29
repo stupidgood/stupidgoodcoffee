@@ -2,11 +2,9 @@
 layout: home
 ---
 
-<a class="inline-block mt-8 mb-8 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/s/order">View menu</a>
-
 **Order online or give us a call.**
 **We will have your order ready for pick up.**
-
+<a class="inline-block mt-8 mb-8 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/s/order">View menu</a>
 
 Monday - Thursday  
 **9:00 a.m. - 4:00 p.m.**
