@@ -20,4 +20,4 @@ Monday – Thursday
 **Closed**  
 Friday - Sunday  
 
-<a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/s/gift-cards">Buy a gift card</a>
+<a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://https://squareup.com/gift/81QENGAGGKNAK/order">Buy a gift card</a>
