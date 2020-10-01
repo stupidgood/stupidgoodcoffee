@@ -26,5 +26,5 @@
   to = "https://stupidgoodcoffee.square.site/s/gift-cards"
 
 [[redirects]]
-  from = "/order"
+  from = "/menu"
   to = "https://stupidgoodcoffee.square.site/s/order"
