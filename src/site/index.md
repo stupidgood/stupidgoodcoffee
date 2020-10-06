@@ -21,3 +21,9 @@ Monday – Thursday
 Friday - Sunday  
 
 <a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://squareup.com/gift/81QENGAGGKNAK/order">Buy gift cards</a>
+
+**Current Coffee Offering** 
+
+From the Jolimex Cooperative in the Huehuetenango region of Guatemala, our current coffee offering has bright notes of apricot, caramel and amaretto. It has a slight sweetness and acidity that gives a beautiful bold flavor to have on its own or paired with any milk or alternative.
+
+<a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/product/coffee/108">Buy beans</a>
