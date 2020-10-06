@@ -24,6 +24,6 @@ Friday - Sunday
 
 **Current Coffee Offering**   
 _Locally roasted by Oak Cliff Coffee Roasters_  
-From the Jolimex Cooperative in the Huehuetenango region of Guatemala, our current coffee offering has bright notes of apricot, caramel and amaretto. It has a slight sweetness and acidity that gives a beautiful bold flavor to have on its own or paired with any milk or alternative.
+<p> From the Jolimex Cooperative in the Huehuetenango region of Guatemala, our current coffee offering has bright notes of apricot, caramel and amaretto. It has a slight sweetness and acidity that gives a beautiful bold flavor to have on its own or paired with any milk or alternative.</p>
 
 <a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/product/coffee/108">Buy beans</a>
