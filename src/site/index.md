@@ -20,9 +20,9 @@ _**We're on the second floor of the building.**_
 
 <a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://www.google.com/maps/dir/?api=1&destination=1910+Pacific+Ave+Ste+2060+Dallas+TX+75201+US">Get directions</a>
 
-<a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://squareup.com/gift/81QENGAGGKNAK/order">Buy gift cards</a>
-
 **Current Coffee Offering**   
 _Locally roasted by Oak Cliff Coffee Roasters_
 
 <a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://stupidgoodcoffee.square.site/product/coffee/108">Buy beans</a>
+
+<a class="inline-block mt-8 mb-6 bg-jaffa py-4 px-6 text-white no-underline text-4xl font-bold not-italic" href="https://squareup.com/gift/81QENGAGGKNAK/order">Buy gift cards</a>
