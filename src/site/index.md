@@ -10,7 +10,7 @@ layout: home
 
 **Open**  
 **9:00 a.m. - 4:00 p.m.**   
-Monday – Thursday
+Monday – Friday
 
 **Closed**  
 Friday - Sunday
