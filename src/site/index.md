@@ -13,7 +13,7 @@ layout: home
 Monday – Friday
 
 **Closed**  
-Friday - Sunday
+Saturday and Sunday
 
 _**We're on the second floor of the building.**_  
 1910 Pacific Ave, Ste 2060, Dallas, TX 75201  
